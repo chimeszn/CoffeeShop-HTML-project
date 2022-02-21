@@ -1,2 +1,3 @@
 # CoffeeShop-HTML-project
-a design of a coffee shop website using only html and inline css
+A design of a coffee shop website using only html and inline css
+This challenge was done from John Smilga's Udemy course on HTML & CSS for Beginners
