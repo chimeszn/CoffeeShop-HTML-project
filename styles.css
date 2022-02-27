@@ -7,12 +7,12 @@ table{
     border-spacing: 25px;
 }
 
-.a-button{
+.button a{
     text-decoration: none;
     color: black;
 }
 
-.background-img{
+.background img{
     width: 100%;
    
 }
